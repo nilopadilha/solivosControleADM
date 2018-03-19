@@ -23,6 +23,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'rails_admin'
 #gem devise
 gem 'devise'
+# gem de autorização 
+gem 'cancancan', '~> 2.0'
 
 
 # Use CoffeeScript for .coffee assets and views
